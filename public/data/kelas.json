@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "mataKuliahId": 1,
+    "dosenId": 1,
+    "mahasiswaIds": [1, 2],
+    "sks": 3
+  },
+  {
+    "id": 2,
+    "mataKuliahId": 2,
+    "dosenId": 2,
+    "mahasiswaIds": [1, 2],
+    "sks": 4
+  }
+]
