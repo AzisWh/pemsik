@@ -1,10 +1,10 @@
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Dosen from './pages/dosen';
 import MataKuliah from './pages/matakuliah';
-import Register from './pages/Register';
 import User from './pages/User';
 import Kelas from './pages/kelas';
 import Mahasiswa from './pages/mahasiswa';
+import Register from './pages/register';
 import { Dashboard } from './pages/Dashboard';
 
 function App() {
