@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Dosen from './pages/dosen';
 import MataKuliah from './pages/matakuliah';
-import User from './pages/User';
+import User from './pages/user';
 import Kelas from './pages/kelas';
 import Mahasiswa from './pages/mahasiswa';
 import Register from './pages/register';
