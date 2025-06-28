@@ -1,5 +1,5 @@
 import React from 'react';
-import { useDosen } from '../utils/apiDosen';
+import { useDosen } from '../utils/apidosen';
 import { useMahasiswa } from '../utils/apimahasiswa';
 import { useMataKuliah } from '../utils/apimatakuliah';
 import { useKelas } from '../utils/apikelas';

@@ -4,7 +4,7 @@ import {
   useCreateDosen,
   useUpdateDosen,
   useDeleteDosen,
-} from '../utils/apiDosen';
+} from '../utils/apidosen';
 
 const tableStyle = {
   width: '100%',
